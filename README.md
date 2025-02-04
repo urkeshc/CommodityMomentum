@@ -1,5 +1,4 @@
 # commodity_strategy
-# Quantitative Investing, Yale University - Fall  24
 # Urkesh Cusack Tuerxun, uyc2
 
 run the notebook.py file to view strategies
